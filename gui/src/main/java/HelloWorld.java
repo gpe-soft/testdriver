@@ -1,9 +1,8 @@
 /**
  * Created with IntelliJ IDEA.
- * User: PETERSE
+ * User: gpe-soft
  * Date: 7-2-14
- * Time: 22:58
+ * Time: 23:38
  */
 public class HelloWorld {
-    //changed  hh
 }
